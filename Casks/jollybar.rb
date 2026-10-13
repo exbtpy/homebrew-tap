@@ -4,7 +4,7 @@
 # `sha256` below is a placeholder. `brew install` will reject it until a release fills it in.
 cask "jollybar" do
   version "0.1.0"
-  sha256 "1f12164e742c6db6b415ec0334dc59ca60d5cab5d08dc2464720ea88ed2548d6"
+  sha256 "224e4004350e68498ec27a98ea9517d37c64c11309779eb85081229c6808a7ba"
 
   url "https://github.com/exbtpy/jollybar/releases/download/v#{version}/Jollybar.dmg"
   name "Jollybar"
